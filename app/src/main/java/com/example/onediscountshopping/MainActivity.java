@@ -3,6 +3,9 @@ package com.example.onediscountshopping;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * 首页
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
