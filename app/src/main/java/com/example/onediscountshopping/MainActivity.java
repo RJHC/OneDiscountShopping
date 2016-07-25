@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * 首页
+ * 首页部分
  */
 public class MainActivity extends AppCompatActivity {
 
